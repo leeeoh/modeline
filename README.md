@@ -10,4 +10,4 @@ mode|line will be split into two sets of categories:
 - Model diagnostics
 
 # developments
-- 2018-01-28: First working package complete and submitted github. Contains first iteration of data summary functionality
+- 2018-01-28: First working package complete and submitted to github. Contains first iteration of data summary functionality
