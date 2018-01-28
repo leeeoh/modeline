@@ -1,0 +1,13 @@
+Package: modeline
+Type: Package
+Title: mode|line
+Version: 0.1.0
+Author: Leo Xu
+Maintainer: leo.liou.xu@gmail.com
+Description:  Helps you with your model pipeline so you can focus on the interesting stuff. Performs produces metadata on your model files, factors, and produces aesthetically pleasing charts and reports.
+    More to come...
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: ggplot2, gridExtra, png, grid, raster, scales, knitr, randomForest
