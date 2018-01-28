@@ -4,7 +4,7 @@
 \alias{dataSumm}
 \title{dataSumm function}
 \usage{
-dataSumm(df)
+dataSumm()
 }
 \description{
 This function outputs a list with data summary, factor summary and plots

@@ -7,17 +7,6 @@
 dataSumm <- function(df)
 {
 
-  # Load libraries ----------------------------------------------------------
-  library(ggplot2)
-  library(gridExtra)
-  library(png)
-  library(grid)
-  library(raster)
-  library(scales)
-  library(knitr)
-  library(randomForest)
-
-
   # Produce metadata --------------------------------------------------------
   dfFactors.na.perc <- sapply(df, function(x) percent(sum(is.na(x)) / length(x)))
   dfFactors.na <- sapply(df, function(x) sum(is.na(x)))
